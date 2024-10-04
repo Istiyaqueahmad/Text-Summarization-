@@ -1,8 +1,20 @@
 {
     "cSpell.words": [
+        "ckpt",
+        "conponents",
+        "dailymail",
         "entbappy",
+        "fastapi",
         "filedir",
+        "fmeasure",
         "ipynb",
-        "levelname"
+        "levelname",
+        "Lsum",
+        "samsum",
+        "starlette",
+        "templating",
+        "tqdm",
+        "uvicorn",
+        "Valiadtion"
     ]
 }

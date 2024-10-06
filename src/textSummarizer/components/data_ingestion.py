@@ -1,6 +1,6 @@
 import os
 import urllib.request as request
-import zipfile
+import zipfil
 from textSummarizer.logging import logger
 from textSummarizer.utils.common import get_size
 from pathlib import Path

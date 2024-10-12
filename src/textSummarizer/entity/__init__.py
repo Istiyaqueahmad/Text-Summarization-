@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-from pathlib import Pat
+from pathlib import Path
 
 @dataclass(frozen=True)
 class DataIngestionConfig:
